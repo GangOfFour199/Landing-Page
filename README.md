@@ -1,7 +1,7 @@
-# Landing_Page
+# Landing Page
 
 
-![](https://github.com/GangOfFour199/Dashboard/blob/main/SandinistaDashboard.png)
+![](https://github.com/GangOfFour199/Landing_Page/blob/main/assets/Sandinista_Landing_Page.png)
 
 
 
