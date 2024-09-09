@@ -30,6 +30,6 @@ This was an introductory assignment by The Odin Project to master the fundamenta
 
 [Try the assignment on The Odin Project](https://www.theodinproject.com/lessons/foundations-landing-page)
 
-[A full-screen preview of this landing page](https://gangoffour199.github.io/Landing_Page/)
+[A full-screen preview of this landing page](https://gangoffour199.github.io/Landing-Page/)
 
 This markdown file was created using [dilinger.io](https://dillinger.io/)
